@@ -13,5 +13,5 @@ branch, commit, push, and open a PR for review.
 2. Make a change on a new branch.
 3. Open a pull request and merge it once it looks good.
 
-This is a great way to practice contributing to a project before you recieve
+This is a great way to practice contributing to a project before you receive
 your first real code review.
